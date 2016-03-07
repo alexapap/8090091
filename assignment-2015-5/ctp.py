@@ -1,3 +1,6 @@
+#Alexandra Papadaki
+#8090091
+
 import sys, copy
 
 graph_file = open(sys.argv[1])
